@@ -1,5 +1,7 @@
 # RAG Chatbot for *Avatar* by James Cameron
 
+![Thumbnail](Extra/turuk.gif)
+
 This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** designed to answer questions related to the movie *Avatar* directed by James Cameron. The chatbot was developed using **Langflow**, a tool for designing and deploying language models.
 
 ## Features
@@ -9,7 +11,7 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 - **Langflow Integration**: Built using the visual interface of Langflow, which makes model design and customization seamless.
 
 
-![Avatar RAG Chatbot](avatar.png)
+![Avatar RAG Chatbot](Extra/avatar.png)
 
 
 ## How It Works
