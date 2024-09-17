@@ -17,6 +17,9 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 ![Avatar RAG Chatbot](Extra/avatar.png)
 
 
+![image](https://github.com/user-attachments/assets/8741f75c-1b95-4e23-bda7-11ffa4d5a130)
+
+
 ## How It Works
 
 The chatbot leverages a **retriever** to search through a document base for relevant passages about *Avatar* and uses a **generator** to form coherent, natural-sounding responses.
