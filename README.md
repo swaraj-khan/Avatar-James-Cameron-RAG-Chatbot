@@ -9,7 +9,7 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 - **Langflow Integration**: Built using the visual interface of Langflow, which makes model design and customization seamless.
 
 
-![Avatar RAG Chatbot](avatar.jpg)
+![Avatar RAG Chatbot](avatar.png)
 
 
 ## How It Works
