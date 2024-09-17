@@ -8,6 +8,10 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 - **Specialized Knowledge**: Focuses exclusively on the world of *Avatar*—its plot, characters, themes, and production details.
 - **Langflow Integration**: Built using the visual interface of Langflow, which makes model design and customization seamless.
 
+
+![Avatar RAG Chatbot](avatar.jpg)
+
+
 ## How It Works
 
 The chatbot leverages a **retriever** to search through a document base for relevant passages about *Avatar* and uses a **generator** to form coherent, natural-sounding responses.
