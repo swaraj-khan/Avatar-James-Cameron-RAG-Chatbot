@@ -7,7 +7,7 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 ## Features
 
 - **RAG Architecture**: Combines retrieval-based techniques with generative models to provide accurate and context-aware responses.
-- **Specialized Knowledge**: Focuses exclusively on the world of *Avatar*—its plot, characters, themes, and production details.
+- **Specialized Knowledge**: Focuses exclusively on the world of *Constitution of India* Structure, Sections, themes, and closer details.
 - **Langflow Integration**: Built using the visual interface of Langflow, which makes model design and customization seamless.
 
 
@@ -22,11 +22,11 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 
 ## How It Works
 
-The chatbot leverages a **retriever** to search through a document base for relevant passages about *Avatar* and uses a **generator** to form coherent, natural-sounding responses.
+The chatbot leverages a **retriever** to search through a document base for relevant passages about *Constitution of India* and uses a **generator** to form coherent, natural-sounding responses.
 
 ### Key Components
 
-1. **Retriever**: Extracts relevant information from the knowledge base, which contains detailed data about the movie.
+1. **Retriever**: Extracts relevant information from the knowledge base, which contains detailed data about the Constitution.
 2. **Generator**: Constructs a human-like response based on the retrieved information.
 
 ## Setup Instructions
@@ -51,7 +51,7 @@ The chatbot leverages a **retriever** to search through a document base for rele
 
 ## Customization
 
-You can modify the RAG model by adding more documents or training it on a larger corpus of *Avatar*-related data. The JSON file included can also be edited to adjust the pipeline's architecture.
+You can modify the RAG model by adding more documents or training it on a larger corpus of *Constitution of India*-related data. The JSON file included can also be edited to adjust the pipeline's architecture.
 
 ## Contact
 
