@@ -1,9 +1,6 @@
 # RAG Chatbot for *Avatar* by James Cameron
 
-
-<div align="center">
-  <img src="Extra/turuk.gif" alt="Alt text" style="width:200%;">
-</div>
+![Lion](https://github.com/user-attachments/assets/7c257cea-ccfb-4cb6-9e9e-88d6ab486b8b)
 
 This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** designed to answer questions related to the movie *Avatar* directed by James Cameron. The chatbot was developed using **Langflow**, a tool for designing and deploying language models.
 
@@ -33,7 +30,7 @@ The chatbot leverages a **retriever** to search through a document base for rele
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/swaraj-khan/Avatar-James-Cameron-RAG-Chatbot.git
+    git clone https://github.com/swaraj-khan/Constitution-of-India-RAG-Chatbot.git
     ```
 
 
@@ -41,7 +38,7 @@ The chatbot leverages a **retriever** to search through a document base for rele
     The chatbot configuration has been built using Langflow, and the flow configuration is saved as a JSON file in this repository. You can load this file into Langflow by following these steps:
     
     - Open Langflow and click on **Upload Flow**.
-    - Select the `Avatar (James Cameron) RAG Chatbot.json` file.
+    - Select the `Constitution-of-India-RAG-Chatbot.json` file.
     - Once uploaded, click **Run** to start the chatbot.
 
 3. **Run the Chatbot**:
