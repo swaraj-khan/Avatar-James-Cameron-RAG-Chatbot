@@ -1,8 +1,8 @@
-# RAG Chatbot for *Avatar* by James Cameron
+# Constitution-of-India-RAG-Chatbot
 
 ![Lion](https://github.com/user-attachments/assets/7c257cea-ccfb-4cb6-9e9e-88d6ab486b8b)
 
-This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** designed to answer questions related to the movie *Avatar* directed by James Cameron. The chatbot was developed using **Langflow**, a tool for designing and deploying language models.
+This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** designed to answer questions related to the movie *Constitution Of India*. The chatbot was developed using **Langflow**, a tool for designing and deploying language models.
 
 ## Features
 
@@ -11,10 +11,13 @@ This repository contains a **Retrieval-Augmented Generation (RAG) chatbot** desi
 - **Langflow Integration**: Built using the visual interface of Langflow, which makes model design and customization seamless.
 
 
-![Avatar RAG Chatbot](Extra/avatar.png)
+![3](https://github.com/user-attachments/assets/02fa7a2c-32d8-4a64-b4d0-31d291bfbc8f)
 
 
-![image](https://github.com/user-attachments/assets/8741f75c-1b95-4e23-bda7-11ffa4d5a130)
+![1](https://github.com/user-attachments/assets/0eac53a5-a049-462c-9c31-e6b7614e1040)
+
+![2](https://github.com/user-attachments/assets/7937652b-7d46-43b4-8f98-3ae8dfada074)
+
 
 
 ## How It Works
@@ -42,13 +45,9 @@ The chatbot leverages a **retriever** to search through a document base for rele
     - Once uploaded, click **Run** to start the chatbot.
 
 3. **Run the Chatbot**:
-    After loading the flow in Langflow, you can start querying the chatbot directly through the interface. It will retrieve relevant information and generate answers related to *Avatar*.
+    After loading the flow in Langflow, you can start querying the chatbot directly through the interface. It will retrieve relevant information and generate answers related to *Constitution Of India*.
 
-## Example Queries
 
-- "Who directed *Avatar*?"
-- "What is the name of the planet in *Avatar*?"
-- "How was the visual effects technology developed for *Avatar*?"
 
 ## Customization
 
